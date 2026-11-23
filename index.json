@@ -6,22 +6,22 @@
     {
       "id": "mauvecore.browser",
       "name": "McOS Browser",
-      "version": "1.0",
+      "version": "1.1",
       "publisher": "MauveCore",
       "category": "Tools",
       "type": "window",
-      "about": "Browse the web from McOS. The Minecraft server fetches each page for your computer, so it works without a network card: text, links, pictures, search and simple forms, and downloads (an .mca opens in the App Installer). No JavaScript, so web apps and video sites won't work, but Wikipedia, wikis, docs, forums and news do. Needs MCPC mod version mcpc57 or newer.",
+      "about": "Browse the whole web from McOS: YouTube, JavaScript sites, logins and web apps. The Minecraft server runs a real browser engine (Chromium) for your computer and shows it in this window, with sound. Downloads go to Downloads (an .mca opens in the App Installer). Needs MCPC mod mcpc58 or newer; on a dedicated server the owner turns the web on (-Dmcpc.web=on). Films on Netflix-style sites need a licence the engine doesn't have.",
       "license": "MIT",
-      "file": "apps/mauvecore.browser/mauvecore.browser-1.0.mca",
-      "size": 129031,
-      "sha256": "d0a3ca5308db4efedd5c937867ed07fb11cf35480d1d5bd42d48bcd95455fdce",
+      "file": "apps/mauvecore.browser/mauvecore.browser-1.1.mca",
+      "size": 391641,
+      "sha256": "01b822fd8bcf9f8a203818501c0faae1ef5b48559f963b7354f9d34bd9b4f6f9",
       "screens": [
         "apps/mauvecore.browser/screens/screen1.bmp",
         "apps/mauvecore.browser/screens/screen2.bmp"
       ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "whatsnew": "First version."
+      "whatsnew": "The full web: the server now runs a real browser engine for your computer, so JavaScript sites, YouTube with sound, logins and web apps work. Typing, clicking, scrolling and copy / paste go to the page. The first time it downloads the engine (about 100 MB). Simple mode is still there if the engine can't run."
     },
     {
       "id": "mauvecore.stickynotes",
