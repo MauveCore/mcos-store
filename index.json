@@ -6,19 +6,21 @@
     {
       "id": "mauvecore.stickynotes",
       "name": "Sticky Notes",
-      "version": "1.0",
+      "version": "1.1",
       "publisher": "MauveCore",
       "category": "Apps",
       "type": "window",
       "about": "Quick notes in six colours. Everything saves as you type, and your notes are there next time. Search, Ctrl+N for a new note, emoji welcome.",
       "license": "MIT",
-      "file": "apps/mauvecore.stickynotes/mauvecore.stickynotes-1.0.mca",
-      "size": 56521,
-      "sha256": "2a37ec5d32fb9879e6d199f5ecf52e50775d0cfc4d5d6404ab8ea34c8c78f0d3",
-      "screens": [],
+      "file": "apps/mauvecore.stickynotes/mauvecore.stickynotes-1.1.mca",
+      "size": 101230,
+      "sha256": "fcef7939834aedeb37826b0b6e4ce2bb351326fcfd93572fe408d9eb2c44be43",
+      "screens": [
+        "apps/mauvecore.stickynotes/screens/screen1.bmp"
+      ],
       "added": "2026-11-23",
       "updated": "2026-11-23",
-      "whatsnew": "First version."
+      "whatsnew": "Adds a screenshot to its Store page."
     }
   ]
 }
