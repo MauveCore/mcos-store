@@ -4,6 +4,26 @@
   "updated": "2026-11-23",
   "apps": [
     {
+      "id": "mauvecore.browser",
+      "name": "McOS Browser",
+      "version": "1.0",
+      "publisher": "MauveCore",
+      "category": "Tools",
+      "type": "window",
+      "about": "Browse the web from McOS. The Minecraft server fetches each page for your computer, so it works without a network card: text, links, pictures, search and simple forms, and downloads (an .mca opens in the App Installer). No JavaScript, so web apps and video sites won't work, but Wikipedia, wikis, docs, forums and news do. Needs MCPC mod version mcpc57 or newer.",
+      "license": "MIT",
+      "file": "apps/mauvecore.browser/mauvecore.browser-1.0.mca",
+      "size": 129031,
+      "sha256": "d0a3ca5308db4efedd5c937867ed07fb11cf35480d1d5bd42d48bcd95455fdce",
+      "screens": [
+        "apps/mauvecore.browser/screens/screen1.bmp",
+        "apps/mauvecore.browser/screens/screen2.bmp"
+      ],
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "whatsnew": "First version."
+    },
+    {
       "id": "mauvecore.stickynotes",
       "name": "Sticky Notes",
       "version": "1.1",
